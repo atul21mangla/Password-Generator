@@ -1,5 +1,5 @@
 # Password Generator 
-## [Live Link]()
+## [Live Link](https://atul21mangla.github.io/Password-Generator/)
 A simple, clean, and secure front-end web application for generating random passwords. This tool is built with HTML, CSS, and vanilla JavaScript, and styled with Tailwind CSS for a modern and responsive user interface.
 
 ## Screenshot
