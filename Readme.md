@@ -4,7 +4,7 @@ A simple, clean, and secure front-end web application for generating random pass
 
 ## Screenshot
 
-![Password Generator Screenshot]()
+![Password Generator Screenshot](https://github.com/atul21mangla/Password-Generator/blob/2a5f319d213a40f3fcbd29f67f24a4badb065903/Screenshot%202025-07-21%20050211.png)
 
 ## Features
 
